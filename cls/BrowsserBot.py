@@ -1,10 +1,9 @@
-import os
 import pickle
 import time
 from selenium import webdriver
 
 
-from config import CHROMEDRIVER_PATH, CHROME_OPTIONS
+from cls.config import CHROMEDRIVER_PATH, CHROME_OPTIONS
 
 
 class Browser:
