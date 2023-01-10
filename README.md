@@ -1,4 +1,4 @@
-# browser-bot-skeleton
+# Browser-Bot-Template
 ---
 ## Where I can use it?
 - To develop automation software that can interact with browser.
